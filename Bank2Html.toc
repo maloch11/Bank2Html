@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: Bank2Html
+## Notes: Scans bank, inventory, and gold across all characters and generates a net-worth HTML webpage using Aux and ShaguTweaks for prices.
+## Author: Bank2Html
+## Version: 1.0.0
+## OptionalDeps: aux-addon, ShaguTweaks
+## SavedVariables: Bank2HtmlDB
+
+Core.lua
+Html.lua
+UI.lua
